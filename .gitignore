@@ -1,0 +1,36 @@
+# Keil MDK build output directory and build files
+Output/
+*.bak
+*.ddk
+*.edk
+*.lst
+*.lnp
+*.mpf
+*.mpj
+*.obj
+*.omf
+*.plg
+*.rpt
+*.tmp
+*.__i
+*.crf
+*.o
+*.d
+*.axf
+*.tra
+*.dep
+*.iex
+*.htm
+*.sct
+*.map
+*.build_log.htm
+*.dbgconf
+JLinkLog.txt
+
+# Keil user GUI layout files (user specific UI settings)
+*.uvguix.*
+*.uvgui.*
+
+# System files
+.DS_Store
+Thumbs.db
